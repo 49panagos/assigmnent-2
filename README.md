@@ -148,5 +148,21 @@
 του να σώζει τα αποτελέσματα σε κάποιο αρχείο, απλώς να τα εμφανίζει στην
 έξοδο. Αν θέλετε να τα σώσετε σε αρχείο θα πρέπει να το καλείτε αναλόγως:
     ``` 
-    java Graph -a example_graph.txt > output.csv
+    java Graph -a example_graph.txt > output.txt
     ```
+
+Για να ελέγξετε το πρόγραμμά σας μπορείτε να χρησιμοποιήσετε τα αρχεία:
+
+* [clrs.txt](https://github.com/louridas/assigmnent-2/blob/master/clrs.txt)
+  Κατευθυνόμενος γράφος
+
+* [traffic.txt](https://github.com/louridas/assigmnent-2/blob/master/traffic.txt)
+  Κατευθυνόμενος γράφος
+
+* [traffic_u.txt](https://github.com/louridas/assigmnent-2/blob/master/traffic_u.txt)
+  Μη κατευθυνόμενος γράφος
+
+* [facebook_combined_u.txt.zip](https://github.com/louridas/assigmnent-2/blob/master/facebook_compined.txt.zip)
+  Μη κατευθυνόμενος γράφος με στοιχεία από τις λίστες φίλων χρηστών του
+  Facebook. Πηγή: J. McAuley and J. Leskovec.
+  Learning to Discover Social Circles in Ego Networks. NIPS, 2012.
